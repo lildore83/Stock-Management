@@ -1,0 +1,14 @@
+C:\Sviluppo\MiniStockManagementSystem\MiniStockManagementSystem\obj\Debug\MiniStockManagementSystem.csprojResolveAssemblyReference.cache
+C:\Sviluppo\MiniStockManagementSystem\MiniStockManagementSystem\obj\Debug\MiniStockManagementSystem.Properties.Resources.resources
+C:\Sviluppo\MiniStockManagementSystem\MiniStockManagementSystem\obj\Debug\MiniStockManagementSystem.StockMain.resources
+C:\Sviluppo\MiniStockManagementSystem\MiniStockManagementSystem\obj\Debug\MiniStockManagementSystem.csproj.GenerateResource.Cache
+C:\Sviluppo\MiniStockManagementSystem\MiniStockManagementSystem\obj\Debug\MiniStockManagementSystem.csproj.CoreCompileInputs.cache
+C:\Sviluppo\MiniStockManagementSystem\MiniStockManagementSystem\bin\Debug\Stocks.mdf
+C:\Sviluppo\MiniStockManagementSystem\MiniStockManagementSystem\bin\Debug\Stocks_log.ldf
+C:\Sviluppo\MiniStockManagementSystem\MiniStockManagementSystem\bin\Debug\MiniStockManagementSystem.exe.config
+C:\Sviluppo\MiniStockManagementSystem\MiniStockManagementSystem\bin\Debug\MiniStockManagementSystem.exe
+C:\Sviluppo\MiniStockManagementSystem\MiniStockManagementSystem\bin\Debug\MiniStockManagementSystem.pdb
+C:\Sviluppo\MiniStockManagementSystem\MiniStockManagementSystem\obj\Debug\MiniStockManagementSystem.exe
+C:\Sviluppo\MiniStockManagementSystem\MiniStockManagementSystem\obj\Debug\MiniStockManagementSystem.pdb
+C:\Sviluppo\MiniStockManagementSystem\MiniStockManagementSystem\obj\Debug\MiniStockManagementSystem.Login.resources
+C:\Sviluppo\MiniStockManagementSystem\MiniStockManagementSystem\obj\Debug\MiniStockManagementSystem.Products.resources
